@@ -1,5 +1,13 @@
 // https://www.youtube.com/watch?v=F627pKNUCVQ&list=PL1KrvEo9cBF-y_K0Q0q75KRcNhXeTcYf3&index=4&t=51s
 
+import {
+  Article,
+  Brand,
+  CTA,
+  Feature,
+  Navbar
+} from '../components'
+
 export const App = () => {
   return (
     <div
