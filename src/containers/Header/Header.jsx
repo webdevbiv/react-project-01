@@ -18,8 +18,9 @@ function Header() {
                 <div className={`${s.gpt3__header_content__people}`}></div>
                 <img src={people} alt='people' />
                 <p>1,600 people requested access a visit in last 24 hours</p>
-                <div className={`${s.gpt3__header_image}`}></div>
-                <img src={ai} alt='ai' />
+                <div className={`${s.gpt3__header_image}`}>
+                    <img src={ai} alt='ai' />
+                </div>
             </div>
         </div>
     )
