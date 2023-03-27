@@ -35,7 +35,7 @@ function Navbar() {
                     : <RiMenu3Line color='#fff' size={27} onClick={() => setToggleMenu(true)} />
                 }
                 {toggleMenu && (
-                    <div className={`${s.gpt3__navbar_menu_container} ${s.scale_up_center}`} >
+                    <div className={`${s.gpt3__navbar_menu_container} scale_up_center`} >
                         <div className={s.gpt3__navbar_menu_container_links}>
                             <Menu />
                             <div className={s.gpt3__navbar_menu_container_links_sign}>
