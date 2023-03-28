@@ -19,16 +19,21 @@ export const App = () => {
     return (
         <div className="App">
             <div className="gradient__bg">
-                <Navbar />
-                <Header />
+                <div className='main__container'>
+                    <Navbar />
+                    <Header />
+                </div>
             </div>
-            <Brand />
-            <What />
-            <Features />
-            <Possibility />
-            <CTA />
-            <Blog />
+            <div className='main__container'>
+                <Brand />
+                <What />
+                <Features />
+                <Possibility />
+                <CTA />
+                <Blog />
+            </div>
             <Footer />
+
         </div>
     )
 }

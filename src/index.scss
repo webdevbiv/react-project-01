@@ -29,6 +29,12 @@ a {
   text-decoration: none;
 }
 
+.main__container {
+  padding-left: 135px;
+  padding-right: 135px;
+  width: 100%;
+}
+
 .gradient__bg {
   /* ff 3.6+ */
   background: -moz-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
@@ -54,11 +60,12 @@ a {
 }
 
 .section__padding {
-  padding: 4rem 6rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
 }
 
 .section__margin {
-  margin: 4rem 6rem;
+  margin: 4rem 0rem;
 }
 
 .scale_up_center {
@@ -95,6 +102,10 @@ a {
   .section__margin {
     margin: 4rem;
   }
+  .main__container {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
 }
 
 @media screen and (max-width: 550px) {
@@ -104,5 +115,9 @@ a {
 
   .section__margin {
     margin: 4rem 2rem;
+  }
+  .main__container {
+    padding-left: 6px;
+    padding-right: 6px;
   }
 }
