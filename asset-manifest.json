@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/react-project-01/static/css/main.f29891f7.css",
-    "main.js": "/react-project-01/static/js/main.f0cb4982.js",
+    "main.css": "/react-project-01/static/css/main.6062b07b.css",
+    "main.js": "/react-project-01/static/js/main.bdf9dbc3.js",
     "static/media/ai.png": "/react-project-01/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/react-project-01/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/react-project-01/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/react-project-01/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/react-project-01/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/react-project-01/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/react-project-01/static/media/blog02.ab0eb367561796e91532.png",
     "static/media/people.png": "/react-project-01/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/react-project-01/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/react-project-01/index.html",
-    "main.f29891f7.css.map": "/react-project-01/static/css/main.f29891f7.css.map",
-    "main.f0cb4982.js.map": "/react-project-01/static/js/main.f0cb4982.js.map"
+    "main.6062b07b.css.map": "/react-project-01/static/css/main.6062b07b.css.map",
+    "main.bdf9dbc3.js.map": "/react-project-01/static/js/main.bdf9dbc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.f29891f7.css",
-    "static/js/main.f0cb4982.js"
+    "static/css/main.6062b07b.css",
+    "static/js/main.bdf9dbc3.js"
   ]
 }
