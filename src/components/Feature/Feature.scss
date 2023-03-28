@@ -1,7 +1,7 @@
 .gpt3__features-container__feature {
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    // justify-content: flex-start;
     align-items: flex-start;
     flex-direction: row;
 
@@ -34,7 +34,7 @@
 
 .gpt3__features-container_feature-text {
     flex: 2;
-    max-width: 390px;
+    width: 100%;
     display: flex;
 }
 
